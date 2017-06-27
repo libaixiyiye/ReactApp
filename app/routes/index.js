@@ -1,5 +1,5 @@
 import React,{Component} from 'react';
-import {HashRouter as Router,Route,Link} from 'react-router-dom';
+import {HashRouter as Router,Route} from 'react-router-dom';
 import Home from '../containers/Home/index'
 export default class RouterMap extends Component{
     render(){
